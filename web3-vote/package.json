@@ -1,0 +1,25 @@
+{
+  "name": "web3-vote",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2",
+    "vant": "^4.7.3",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.0.2",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "unplugin-vue-components": "^0.25.2"
+  }
+}
